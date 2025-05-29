@@ -16,6 +16,16 @@
             "type": "dart",
             "program": "lib/with_animations.dart"
         },
-      
+            {
+            "name": "Explicitas",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/explicity_example.dart"
+        },      {
+            "name": "Implicitas",
+            "request": "launch",
+            "type": "dart",
+            "program": "lib/implicity_example.dart"
+        },
     ]
 }
